@@ -1,0 +1,98 @@
+{
+  "broadArea": {
+    "name": "Computer Science and Engineering",
+    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
+  },
+  "lab": "Problem Solving Lab",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IIITH",
+  "baseUrl": "ps-iiith.vlabs.ac.in",
+  "introduction": "Welcome to the Problem Solving Virtual Lab developed at IIIT Hyderabad. The interactive experiments in this lab will give the students an opportunity for learning and better understanding of using computer programming as a tool to solve basic to advanced problems.",
+  "experiments": [
+    {
+      "name": "Numerical Representation",
+      "short-name": "numerical-representation",
+      "repo": "https://github.com/virtual-labs/exp-numerical-representation-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Beauty of Numbers",
+      "short-name": "beauty-of-numbers",
+      "repo": "https://github.com/virtual-labs/exp-beauty-of-numbers-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "More on Numbers",
+      "short-name": "more-on-numbers",
+      "repo": "https://github.com/virtual-labs/exp-more-on-numbers-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Factorials",
+      "short-name": "factorials",
+      "repo": "https://github.com/virtual-labs/exp-factorials-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "String Operations",
+      "short-name": "string-operations",
+      "repo": "https://github.com/virtual-labs/exp-string-operations-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Recursion",
+      "short-name": "recursion",
+      "repo": "https://github.com/virtual-labs/exp-recursion-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Advanced Arithmatic",
+      "short-name": "advanced-arithmatic",
+      "repo": "https://github.com/virtual-labs/exp-advanced-arithmatic-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Searching and Sorting",
+      "short-name": "searching-and-sorting",
+      "repo": "https://github.com/virtual-labs/exp-searching-and-sorting-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Permutation",
+      "short-name": "permutation",
+      "repo": "https://github.com/virtual-labs/exp-permutation-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Sequences",
+      "short-name": "sequences",
+      "repo": "https://github.com/virtual-labs/exp-sequences-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    }
+  ],
+  "targetAudience": {
+    "UG": ["B. Tech./ B.E in Computer Science & Information Technology"],
+    "PG": ["Postgraduate students and Research scholars"]
+  },
+  "objective": "This lab aims at demonstrating the process of identifying a problem, developing an algorithm for the identified problem and finally implementing the algorithm to develop a computer program.",
+  "courseAlignment": {
+    "description": "The present lab is aligned with courses such as Introduction to Data Structures, Data Structures in C/C++, and the like. The experiments touch on most topics covered in such courses in most curricula.",
+    "universities": [
+      "Universities with Computer Science & Information Technology"
+    ]
+  },
+  "exp_name": "Sequences",
+  "exp_short_name": "sequences",
+  "version": "v0.2.0"
+}
