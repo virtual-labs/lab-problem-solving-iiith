@@ -15,7 +15,7 @@
       "name": "Numerical Representation",
       "short-name": "numerical-representation",
       "repo": "https://github.com/virtual-labs/exp-numerical-representation-iiith",
-      "tag": "v1.0.8",
+      "tag": "v1.0.9",
       "deploy": true
     },
     {
@@ -95,5 +95,5 @@
   },
   "exp_name": "Sequences",
   "exp_short_name": "sequences",
-  "version": "v0.12.0"
+  "version": "v0.13.0"
 }
